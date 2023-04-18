@@ -1,0 +1,7 @@
+D:\C# OO\segundo_módulo\Course\bin\Debug\Course.exe.config
+D:\C# OO\segundo_módulo\Course\bin\Debug\Course.exe
+D:\C# OO\segundo_módulo\Course\bin\Debug\Course.pdb
+D:\C# OO\segundo_módulo\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+D:\C# OO\segundo_módulo\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+D:\C# OO\segundo_módulo\Course\obj\Debug\Course.exe
+D:\C# OO\segundo_módulo\Course\obj\Debug\Course.pdb
