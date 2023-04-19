@@ -1,0 +1,7 @@
+D:\C# OO\segundo_módulo\saida_de_dados\bin\Debug\saida_de_dados.exe.config
+D:\C# OO\segundo_módulo\saida_de_dados\bin\Debug\saida_de_dados.exe
+D:\C# OO\segundo_módulo\saida_de_dados\bin\Debug\saida_de_dados.pdb
+D:\C# OO\segundo_módulo\saida_de_dados\obj\Debug\saida_de_dados.csproj.AssemblyReference.cache
+D:\C# OO\segundo_módulo\saida_de_dados\obj\Debug\saida_de_dados.csproj.CoreCompileInputs.cache
+D:\C# OO\segundo_módulo\saida_de_dados\obj\Debug\saida_de_dados.exe
+D:\C# OO\segundo_módulo\saida_de_dados\obj\Debug\saida_de_dados.pdb

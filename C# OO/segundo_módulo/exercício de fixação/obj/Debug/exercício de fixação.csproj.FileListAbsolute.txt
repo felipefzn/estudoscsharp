@@ -1,0 +1,7 @@
+D:\C# OO\segundo_módulo\exercício de fixação\bin\Debug\exercício de fixação.exe.config
+D:\C# OO\segundo_módulo\exercício de fixação\bin\Debug\exercício de fixação.exe
+D:\C# OO\segundo_módulo\exercício de fixação\bin\Debug\exercício de fixação.pdb
+D:\C# OO\segundo_módulo\exercício de fixação\obj\Debug\exercício de fixação.csproj.CoreCompileInputs.cache
+D:\C# OO\segundo_módulo\exercício de fixação\obj\Debug\exercício de fixação.exe
+D:\C# OO\segundo_módulo\exercício de fixação\obj\Debug\exercício de fixação.pdb
+D:\C# OO\segundo_módulo\exercício de fixação\obj\Debug\exercício de fixação.csproj.AssemblyReference.cache
