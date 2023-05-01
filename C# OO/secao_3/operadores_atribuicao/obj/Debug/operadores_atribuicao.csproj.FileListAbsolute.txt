@@ -1,0 +1,7 @@
+D:\C# OO\secao_3\operadores_atribuicao\bin\Debug\operadores_atribuicao.exe.config
+D:\C# OO\secao_3\operadores_atribuicao\bin\Debug\operadores_atribuicao.exe
+D:\C# OO\secao_3\operadores_atribuicao\bin\Debug\operadores_atribuicao.pdb
+D:\C# OO\secao_3\operadores_atribuicao\obj\Debug\operadores_atribuicao.csproj.AssemblyReference.cache
+D:\C# OO\secao_3\operadores_atribuicao\obj\Debug\operadores_atribuicao.csproj.CoreCompileInputs.cache
+D:\C# OO\secao_3\operadores_atribuicao\obj\Debug\operadores_atribuicao.exe
+D:\C# OO\secao_3\operadores_atribuicao\obj\Debug\operadores_atribuicao.pdb
