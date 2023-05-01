@@ -1,0 +1,7 @@
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.AssemblyReference.cache
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\OperadoresAritméticos\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb

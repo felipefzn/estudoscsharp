@@ -4,3 +4,7 @@ D:\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\bin\Debug\Conve
 D:\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\bin\Debug\Conversao_implicita.pdb
 D:\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\obj\Debug\Conversao_implicita.exe
 D:\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\obj\Debug\Conversao_implicita.pdb
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\obj\Debug\Conversao_implicita.csproj.AssemblyReference.cache
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\obj\Debug\Conversao_implicita.csproj.CoreCompileInputs.cache
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\obj\Debug\Conversao_implicita.exe
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\conversao_implicita_casting\Conversao_implicita\obj\Debug\Conversao_implicita.pdb
