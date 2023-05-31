@@ -1,0 +1,7 @@
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.exe
+D:\GitHub\Clones\estudoscsharp\C# OO\secao_3\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.pdb
